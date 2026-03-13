@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/hix-ai-como-un",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a hix-ai-como-un",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/hix-ai-como-un.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/hix-ai-como-un-escritor-de-ia-puede-ayudarte-a-escribir-mas-rapido-y-mejor/"
+    },
+    "homepage": "https://bitcu.co/hix-ai-como-un-escritor-de-ia-puede-ayudarte-a-escribir-mas-rapido-y-mejor/"
+}
